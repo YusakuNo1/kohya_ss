@@ -51,7 +51,7 @@ dataset/**
 !dataset/**/.gitkeep
 models
 data
-config.toml
+# config.toml   # Use my own config.toml, not the one in the repository
 sd-scripts
 venv
 venv*
